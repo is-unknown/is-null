@@ -8,8 +8,8 @@ $ npm install @is-(unknown)/is-null
 
 ## Usage
 ```js
-var isUndefined = require('@is-(unknown)/is-null');
+var isNull = require('@is-(unknown)/is-null');
 
-console.log(isUndefined(null)) // true
-console.log(isUndefined('anything else')) // false
+console.log(isNull(null)) // true
+console.log(isNull('anything else')) // false
 ```
