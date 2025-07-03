@@ -1,4 +1,4 @@
-# is-undefined
+# is-null
 Checks if a value is null.
 
 ## Installation
