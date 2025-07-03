@@ -1,7 +1,7 @@
 {
   "name": "@is-(unknown)/is-null",
-  "version": "1.0.0",
-  "description": "CHECK IF   VALUE IS NULL",
+  "version": "1.2.0",
+  "description": "Checks if a value is null.",
   "keywords": [
     "isnull"
   ],
